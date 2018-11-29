@@ -23,9 +23,10 @@ ul {
 
 li {
 	margin: 5px;
-	display: inline-block;
 	padding-right: 10px ;
 }
+
+
 
 #center {
 	background: white;
@@ -37,8 +38,8 @@ li {
 	padding: 2%;
 }
 
-#menu_index {
-
+#menu_index li{
+	display: inline-block;
 }
 
 .clignote {
