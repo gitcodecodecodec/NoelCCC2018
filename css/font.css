@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "NoelFont";
+	src: url('../fonts/MerryChristmasFlake.ttf');
+}
+
+@font-face {
+	font-family: "NoelFont";
+	font-weight: bold;
+	src: url('../fonts/MerryChristmasStar.ttf');
+}
+
+
+@font-face {
+	font-family: "CandyFont";
+	src: url('../fonts/Candcu__.ttf');
+}
+
+body {
+	font-family: "NoelFont", Helvetica, Arial, sans-serif;
+	color : black;
+	font-size: 40;
+}
