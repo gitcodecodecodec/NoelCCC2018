@@ -26,7 +26,17 @@ li {
 	padding-right: 10px ;
 }
 
-
+.home {
+	background: url("../images/homeneige.jpg") no-repeat;
+	width: 80px;
+	height: 80px;
+}
+.home:hover {
+	background: url("../images/home.jpg") no-repeat; 
+}
+.home:active{
+	background: url("../images/homesombre.jpg") no-repeat; 
+}
 
 #center {
 	background: white;
