@@ -1,0 +1,32 @@
+body {
+	background-image: url("../images/fond1.jpg") ; 
+}
+
+h1 {
+ color : green;
+}
+
+a {
+
+}
+
+#center {
+	background: white;
+	height : 100%;
+	width : 80%;
+	margin: auto; 
+}
+
+#menu_index {
+
+}
+
+.clignote {
+  animation: clignoter 1s step-start infinite;
+}
+
+@keyframes clignoter {
+  50% {
+    color: red; /*mettre la couleur ici*/
+  }
+}
